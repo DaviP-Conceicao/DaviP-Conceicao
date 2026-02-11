@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Davi%20Paulino%20Conceição&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Entusiasta+em+Tecnologia+%F0%9F%92%BB;Estudante+de+Ciência+da+Computação+%F0%9F%8E%93;Apaixonado+por+Desenvolvimento+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+<h3 align="center">
+  💻 Entusiasta em Tecnologia | 🎓 Estudante de Ciência da Computação 
+</h3>
 
 <br>
 
@@ -20,21 +20,7 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviP-Conceicao&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6E96&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaviP-Conceicao&custom_title=Davi's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
----
-
-## 🐍 Minhas Contribuições sendo devoradas
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DaviP-Conceicao/DaviP-Conceicao/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviP-Conceicao&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6E96&currStreakLabel=00D9FF" alt="GitHub Streak" width="500"/>
 </div>
 
 ---
@@ -83,19 +69,11 @@ const davi = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DaviP-Conceicao&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 📫 Vamos nos Conectar?
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:seu-email@exemplo.com)
+  [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:davipaulino7@hotmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-paulino-concei%C3%A7%C3%A3o-5b97b92ba)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_paulinodavi_/)
   
