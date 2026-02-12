@@ -52,9 +52,11 @@ const davi = {
         tecnico: "Manutenção e Suporte em Informática - IFSP",
         status: "Em andamento 📚"
     },
-    interesses: ["Desenvolvimento Web", "Programação", "Software e Tecnologias para o bem da sociedade"],
-    objetivo: "Crescer constantemente e contribuir para a comunidade tech! 🚀"
-};
+    interesses para começar: [" Área de Suporte e infraestrutura", "Segurança da informação"],
+
+    interesses desejáveis: ["Desenvolvimento Web", "Programação", " Analista de dados", "Software" e Tecnologias para o bem da sociedade"],
+
+    objetivo: "Crescer constantemente e alcançar um trbalaho sólido🚀"};
 ```
 
 <div align="center">
