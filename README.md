@@ -54,7 +54,7 @@ const davi = {
     },
     interesses para começar: [" Área de Suporte e infraestrutura", "Segurança da informação"],
 
-    interesses desejáveis: ["Desenvolvimento Web", "Programação", " Analista de dados", "Software" e Tecnologias para o bem da sociedade"],
+    interesses desejáveis: ["Civic Tech Developer", "Product Engineer e  AI-Assisted Software Engineer","Vibe coding", e "Tecnologias para o bem da sociedade"],
 
     objetivo: "Crescer constantemente e alcançar um trbalaho sólido🚀"};
 ```
