@@ -58,7 +58,7 @@ const davi = {
 
     interesses desejáveis: ["Civic Tech Developer", "Product Engineer e  AI-Assisted Software Engineer","Vibe coding", e "Tecnologias para o bem da sociedade"],
 
-    objetivo: "Crescer constantemente e alcançar um trbalaho sólido🚀"};
+    objetivo: "Crescer constantemente e alcançar um trabalho sólido🚀"};
 ```
 
 <div align="center">
