@@ -47,7 +47,7 @@
 ```typescript
 const davi = {
     nome: "Davi Paulino Conceição",
-    idade: 19,
+    idade: 20,
     local: "São João da Boa Vista, SP 🇧🇷",
     formacao: {
         graduacao: "Ciência da Computação - IFSP",
