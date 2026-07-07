@@ -57,8 +57,8 @@ console.log("Se gostou dos meus projetos, dê uma estrela neles!");
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DaviP-Conceicao&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6E96&currStreakLabel=00D9FF" alt="GitHub Streak" width="500"/>
+  
+<img src="./profile/streak.svg" alt="GitHub Streak" width="500"/>
 
 </div>
 
