@@ -1,0 +1,46 @@
+<svg viewBox="0 0 1440 120" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Faixa decorativa animada em tons de azul, com ondas em movimento representando fluxo de dados">
+  <title>Faixa animada — ondas em tons de azul</title>
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020024"/>
+      <stop offset="55%" stop-color="#0f2027"/>
+      <stop offset="100%" stop-color="#0c447c"/>
+    </linearGradient>
+    <path id="waveBack" d="M0,70 C240,110 480,30 720,70 C960,110 1200,30 1440,70 V120 H0 Z" fill="#0c447c" fill-opacity="0.55"/>
+    <path id="waveMid" d="M0,80 C220,50 460,110 720,80 C980,50 1220,110 1440,80 V120 H0 Z" fill="#185fa5" fill-opacity="0.6"/>
+    <path id="waveFront" d="M0,92 C260,65 480,118 720,92 C960,65 1180,118 1440,92 V120 H0 Z" fill="#00d9ff" fill-opacity="0.65"/>
+    <style>
+      .layer use { animation-timing-function: linear; animation-iteration-count: infinite; }
+      .back use { animation-name: driftBack; animation-duration: 20s; }
+      .mid use { animation-name: driftMid; animation-duration: 13s; }
+      .front use { animation-name: driftFront; animation-duration: 8s; }
+      @keyframes driftBack { 0% { transform: translateX(0%); } 100% { transform: translateX(-100%); } }
+      @keyframes driftMid { 0% { transform: translateX(0%); } 100% { transform: translateX(-100%); } }
+      @keyframes driftFront { 0% { transform: translateX(0%); } 100% { transform: translateX(-100%); } }
+      .node { animation: pulse 2.6s ease-in-out infinite; }
+      @keyframes pulse { 0%, 100% { opacity: 0.25; } 50% { opacity: 0.9; } }
+    </style>
+  </defs>
+
+  <rect width="1440" height="120" fill="url(#bgGrad)"/>
+
+  <g class="layer back">
+    <use href="#waveBack" x="0%"/>
+    <use href="#waveBack" x="100%"/>
+  </g>
+  <g class="layer mid">
+    <use href="#waveMid" x="0%"/>
+    <use href="#waveMid" x="100%"/>
+  </g>
+  <g class="layer front">
+    <use href="#waveFront" x="0%"/>
+    <use href="#waveFront" x="100%"/>
+  </g>
+
+  <circle class="node" cx="120" cy="26" r="2.4" fill="#00d9ff" style="animation-delay:0s"/>
+  <circle class="node" cx="340" cy="16" r="2" fill="#378ADD" style="animation-delay:.5s"/>
+  <circle class="node" cx="560" cy="34" r="2.6" fill="#85B7EB" style="animation-delay:1s"/>
+  <circle class="node" cx="820" cy="14" r="2" fill="#00d9ff" style="animation-delay:1.4s"/>
+  <circle class="node" cx="1040" cy="30" r="2.4" fill="#378ADD" style="animation-delay:.8s"/>
+  <circle class="node" cx="1260" cy="18" r="2.2" fill="#85B7EB" style="animation-delay:1.8s"/>
+</svg>
