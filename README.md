@@ -1,5 +1,9 @@
 # Davi Paulino Conceição
 
+<p align="center">
+  <img src="./profile/wave-banner.svg" alt="Faixa animada" width="100%"/>
+</p>
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&background=0C081E00&width=650&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+IFSP;T%C3%A9cnico+em+Manuten%C3%A7%C3%A3o+de+Inform%C3%A1tica;Entusiasta+em+Seguran%C3%A7a+%26+Infraestrutura;Desenvolvedor+Civic+Tech;Tecnologias+para+o+bem+da+sociedade" alt="Typing SVG" />
 </p>
@@ -88,6 +92,7 @@ console.log("Se gostou dos meus projetos, dê uma estrela neles!");
 
 ### ⭐ Se você gostou dos meus projetos, não esqueça de dar uma estrela!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="./profile/wave-banner.svg" width="100%"/>
 
 </div>
+<img src="./profile/wave-banner.svg" width="100%"/>
