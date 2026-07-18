@@ -1,13 +1,10 @@
 # Davi Paulino Conceição
-
 <p align="center">
   <img src="./profile/wave-banner.svg" alt="Faixa animada" width="100%"/>
 </p>
-
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&background=0C081E00&width=650&height=45&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+IFSP;T%C3%A9cnico+em+Manuten%C3%A7%C3%A3o+de+Inform%C3%A1tica;Entusiasta+em+Seguran%C3%A7a+%26+Infraestrutura;Desenvolvedor+Civic+Tech;Tecnologias+para+o+bem+da+sociedade" alt="Typing SVG" />
 </p>
-
 <p align="left">
   <a href="https://visitorbadge.io/status?path=DaviP-Conceicao"><img src="https://api.visitorbadge.io/api/visitors?path=DaviP-Conceicao&label=Profile%20Views&labelColor=%23697689&countColor=%2300d9ff&style=flat&labelStyle=upper" alt="Visitors" /></a>
   <a href="https://github.com/DaviP-Conceicao?tab=followers"><img src="https://img.shields.io/github/followers/DaviP-Conceicao?style=social" alt="GitHub followers" /></a>
@@ -34,14 +31,10 @@ const davi = {
     ],
     objetivo: "Crescer constantemente e alcançar um trabalho sólido 🚀"
 };
-
 console.log("Se gostou dos meus projetos, dê uma estrela neles!");
 ```
-
 ---
-
 ## 🤖 Tech Stack
-
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -59,7 +52,6 @@ console.log("Se gostou dos meus projetos, dê uma estrela neles!");
 ---
 
 ## 📊 Estatísticas do GitHub
-
 <div align="center">
   
 <img src="./profile/streak.svg" alt="GitHub Streak" width="500"/>
@@ -79,7 +71,6 @@ console.log("Se gostou dos meus projetos, dê uma estrela neles!");
 ---
 
 ## 📫 Vamos nos Conectar?
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:davipaulino7@hotmail.com)
@@ -95,4 +86,3 @@ console.log("Se gostou dos meus projetos, dê uma estrela neles!");
 <img src="./profile/wave-banner.svg" width="100%"/>
 
 </div>
-<img src="./profile/wave-banner.svg" width="100%"/>
