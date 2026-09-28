@@ -77,6 +77,8 @@ console.log("Se gostou dos meus projetos, dê uma estrela neles!");
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-paulino-concei%C3%A7%C3%A3o-5b97b92ba)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_paulinodavi_/)
 
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-DaviP--Conceicao-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/DaviP-Conceicao)
+
 </div>
 
 <div align="center">
